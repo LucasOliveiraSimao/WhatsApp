@@ -4,4 +4,6 @@
     <string name="txt_password">Senha</string>
     <string name="btn_enter">Entrar</string>
     <string name="txt_account">Não tem conta? Crie aqui!</string>
+    <string name="txt_name">Nome</string>
+    <string name="txt_new_account">Criar Conta</string>
 </resources>
